@@ -1,7 +1,7 @@
 {
   "name": "@wilgo001/date-picker-library",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "repository": "https://github.com/wilgo001/date-picker-library.git",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
