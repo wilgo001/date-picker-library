@@ -5,6 +5,10 @@ Object.defineProperty(exports, "__esModule", {
 });
 exports.default = void 0;
 
+var _react = _interopRequireDefault(require("react"));
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
 const DatePicker = props => {
   const id = props.id;
 
@@ -12,7 +16,7 @@ const DatePicker = props => {
     props.onChange(e.target.value);
   };
 
-  return /*#__PURE__*/React.createElement("input", {
+  return /*#__PURE__*/_react.default.createElement("input", {
     type: "date",
     id: id,
     onChange: e => {
