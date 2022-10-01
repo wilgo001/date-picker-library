@@ -1,6 +1,12 @@
 {
-  "name": "@wilgo001/date-picker-library",
-  "version": "0.3.0",
+  "name": "date-picker-library",
+  "version": "0.5.0",
+  "description": "React component returning a date input and take in parameters an id and a onChange callback",
+  "keywords": ["React", "date", "javascript", "input", "Component"],
+  "author": {
+    "email": "wilhelm.salles.pro@gmail.com",
+    "name": "Wilhelm Salles"
+  },
   "private": false,
   "main": "dist/index.js",
   "module": "dist/index.js",

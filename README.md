@@ -2,10 +2,8 @@
 A date picker react component made with create react app and babel
 
 ## Installation
-- Connect to npm
-```npm login```
 - import library on your project
-```npm install @wilgo001/date-picker-library```
+```npm install date-picker-library```
 
 ## How to use
 - import DatePicker
